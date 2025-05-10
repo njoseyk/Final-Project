@@ -31,7 +31,7 @@ This program was developed as a final project for COSC-1436 course.
 
 ---
 
-- ## ▶ How to Run
+- ## How to Run
 
 ### Using GitHub Codespaces
 1. Open this repository in Codespaces.
